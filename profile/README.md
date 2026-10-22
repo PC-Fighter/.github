@@ -52,6 +52,8 @@ la toalla.
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js">
   <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress">
+  <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache">
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker">
@@ -85,7 +87,8 @@ la toalla.
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/santa-lucia-redondo.png" height="56" alt="Escuela Santa Lucía"><br>
       <b><a href="https://github.com/PC-Fighter/chatbot_santa_lucia">Colegio Santa Lucía</a></b> · <i>Educación</i><br>
-      Asistente de WhatsApp que valida a las familias y entrega los boletines de los alumnos.
+      <a href="https://escuelasantalucia.edu.ar/">Sitio institucional en WordPress</a> y un asistente de
+      WhatsApp que valida a las familias y entrega los boletines de los alumnos.
     </td>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/gestion-servicio-tecnico.svg" height="56" alt="Servicio técnico"><br>
