@@ -82,11 +82,13 @@ la toalla.
       <b>Mecánica Abel</b> · <i>Taller mecánico</i><br>
       Sistema de gestión del taller: recepción de autos con fotos y firma del cliente,
       órdenes de trabajo y avisos por email.
+      <br><br><a href="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/capturas/mecanica-abel.png"><img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/capturas/mecanica-abel.png" width="100%" alt="Captura de Mecánica Abel"></a>
     </td>
     <td width="50%" valign="top">
       <img src="https://www.pcfighter.com.ar/assets/img/clientes/palillo.webp" height="56" alt="Palillo Fight Club"><br>
       <b>Palillo Fight Club</b> · <i>Artes marciales</i><br>
       Asistencia, cuotas y clases, con lector RFID en la entrada basado en Arduino.
+      <br><br><a href="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/capturas/palillo-fight-club.png"><img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/capturas/palillo-fight-club.png" width="100%" alt="Captura de Palillo Fight Club"></a>
     </td>
   </tr>
   <tr>
@@ -95,12 +97,14 @@ la toalla.
       <b>Colegio Santa Lucía</b> · <i>Educación</i><br>
       <a href="https://escuelasantalucia.edu.ar/">Sitio institucional en WordPress</a> y un asistente de
       WhatsApp que valida a las familias y entrega los boletines de los alumnos.
+      <br><br><a href="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/capturas/santa-lucia-sitio.png"><img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/capturas/santa-lucia-sitio.png" width="100%" alt="Captura de Colegio Santa Lucía"></a>
     </td>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/gestion-servicio-tecnico.svg" height="56" alt="Servicio técnico"><br>
       <b>Sistema de gestión</b> · <i>Servicio técnico de PC</i><br>
       Desarrollado para un tercero: recepción de equipos con fotos y firma, tablero del local y
       seguimiento por número de ticket.
+      <br><br><a href="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/capturas/gestion-servicio-tecnico.png"><img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/capturas/gestion-servicio-tecnico.png" width="100%" alt="Captura de Sistema de gestión"></a>
     </td>
   </tr>
 </table>
