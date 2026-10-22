@@ -70,7 +70,7 @@ la toalla.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://www.pcfighter.com.ar/assets/img/clientes/abel.webp" height="56" alt="Mecánica Abel"><br>
+      <img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/abel-redondo.png" height="56" alt="Mecánica Abel"><br>
       <b><a href="https://github.com/PC-Fighter/abel_mecanica">Mecánica Abel</a></b> · <i>Taller mecánico</i><br>
       Sistema de gestión del taller: recepción de autos con fotos y firma del cliente,
       órdenes de trabajo y avisos por email.
@@ -83,7 +83,7 @@ la toalla.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/santa-lucia.png" height="56" alt="Escuela Santa Lucía"><br>
+      <img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/santa-lucia-redondo.png" height="56" alt="Escuela Santa Lucía"><br>
       <b><a href="https://github.com/PC-Fighter/chatbot_santa_lucia">Colegio Santa Lucía</a></b> · <i>Educación</i><br>
       Asistente de WhatsApp que valida a las familias y entrega los boletines de los alumnos.
     </td>
