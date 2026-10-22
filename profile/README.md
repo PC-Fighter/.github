@@ -1,7 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4310a2,50:7b4ee0,100:5866e0&height=120&section=header" width="100%" alt="">
 
 <p align="center">
-  <img src="https://pcfighter.com.ar/assets/img/logo.png" alt="PC Fighter" width="320">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/logo-blanco.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/logo-negro.png">
+    <img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/logo-negro.png" alt="PC Fighter" width="320">
+  </picture>
 </p>
 
 <p align="center">
@@ -66,25 +70,28 @@ la toalla.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://pcfighter.com.ar/assets/img/clientes/abel.webp" height="56" alt="Mecánica Abel"><br>
+      <img src="https://www.pcfighter.com.ar/assets/img/clientes/abel.webp" height="56" alt="Mecánica Abel"><br>
       <b><a href="https://github.com/PC-Fighter/abel_mecanica">Mecánica Abel</a></b> · <i>Taller mecánico</i><br>
       Sistema de gestión del taller: recepción de autos con fotos y firma del cliente,
       órdenes de trabajo y avisos por email.
     </td>
     <td width="50%" valign="top">
-      <img src="https://pcfighter.com.ar/assets/img/clientes/palillo.webp" height="56" alt="Palillo Fight Club"><br>
+      <img src="https://www.pcfighter.com.ar/assets/img/clientes/palillo.webp" height="56" alt="Palillo Fight Club"><br>
       <b><a href="https://github.com/PC-Fighter/fichaje_pfc">Palillo Fight Club</a></b> · <i>Artes marciales</i><br>
       Asistencia, cuotas y clases, con lector RFID en la entrada basado en Arduino.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/santa-lucia.png" height="56" alt="Escuela Santa Lucía"><br>
       <b><a href="https://github.com/PC-Fighter/chatbot_santa_lucia">Colegio Santa Lucía</a></b> · <i>Educación</i><br>
       Asistente de WhatsApp que valida a las familias y entrega los boletines de los alumnos.
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/PC-Fighter/gestion-system">Sistema de gestión</a></b> · <i>Producto propio</i><br>
-      Gestión de servicios técnicos, con seguimiento por número de ticket.
+      <img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/gestion-servicio-tecnico.svg" height="56" alt="Servicio técnico"><br>
+      <b><a href="https://github.com/PC-Fighter/gestion-system">Sistema de gestión</a></b> · <i>Servicio técnico de PC</i><br>
+      Desarrollado para un tercero: recepción de equipos con fotos y firma, tablero del local y
+      seguimiento por número de ticket.
     </td>
   </tr>
 </table>
