@@ -79,36 +79,51 @@ la toalla.
   <tr>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/abel-redondo.png" height="56" alt="Mecánica Abel"><br>
-      <b><a href="https://github.com/PC-Fighter/abel_mecanica">Mecánica Abel</a></b> · <i>Taller mecánico</i><br>
+      <b>Mecánica Abel</b> · <i>Taller mecánico</i><br>
       Sistema de gestión del taller: recepción de autos con fotos y firma del cliente,
       órdenes de trabajo y avisos por email.
     </td>
     <td width="50%" valign="top">
       <img src="https://www.pcfighter.com.ar/assets/img/clientes/palillo.webp" height="56" alt="Palillo Fight Club"><br>
-      <b><a href="https://github.com/PC-Fighter/fichaje_pfc">Palillo Fight Club</a></b> · <i>Artes marciales</i><br>
+      <b>Palillo Fight Club</b> · <i>Artes marciales</i><br>
       Asistencia, cuotas y clases, con lector RFID en la entrada basado en Arduino.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/santa-lucia-redondo.png" height="56" alt="Escuela Santa Lucía"><br>
-      <b><a href="https://github.com/PC-Fighter/chatbot_santa_lucia">Colegio Santa Lucía</a></b> · <i>Educación</i><br>
+      <b>Colegio Santa Lucía</b> · <i>Educación</i><br>
       <a href="https://escuelasantalucia.edu.ar/">Sitio institucional en WordPress</a> y un asistente de
       WhatsApp que valida a las familias y entrega los boletines de los alumnos.
     </td>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/PC-Fighter/.github/main/assets/gestion-servicio-tecnico.svg" height="56" alt="Servicio técnico"><br>
-      <b><a href="https://github.com/PC-Fighter/gestion-system">Sistema de gestión</a></b> · <i>Servicio técnico de PC</i><br>
+      <b>Sistema de gestión</b> · <i>Servicio técnico de PC</i><br>
       Desarrollado para un tercero: recepción de equipos con fotos y firma, tablero del local y
       seguimiento por número de ticket.
     </td>
   </tr>
 </table>
 
+## 💬 Lo que dicen nuestros clientes
+
+> «Me la dejaron como nueva y me explicaron todo lo que tenía. Súper recomendables.»
+> — **Mercedes M.**, reparación de notebook
+
+> «Ahora llega señal hasta el fondo. Rápidos y prolijos.»
+> — **Cristian P.**, WiFi en toda la casa
+
+> «Me ayudaron a elegir cada pieza sin venderme de más.»
+> — **Joel F.**, armado gamer
+
 ## 🔔 Cuatro rounds hasta la victoria
 
 | Round 1 | Round 2 | Round 3 | Round 4 |
 |---|---|---|---|
 | **Diagnóstico**<br>Nos contás qué necesitás y lo analizamos | **Presupuesto**<br>Costo y plazo por escrito. Avanzamos solo con tu OK | **Solución**<br>Lo desarrollamos y lo probamos a fondo | **Entrega y seguimiento**<br>Funcionando, y quedamos a disposición |
+
+<p align="center">
+  <a href="https://www.pcfighter.com.ar/empresas#contacto"><img src="https://img.shields.io/badge/Ped%C3%AD_tu_presupuesto-7b4ee0?style=for-the-badge&logo=handshake&logoColor=white" alt="Pedí tu presupuesto" height="36"></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5866e0,50:7b4ee0,100:4310a2&height=100&section=footer" width="100%" alt="">
